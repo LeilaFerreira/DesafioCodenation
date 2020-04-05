@@ -4,10 +4,7 @@
 
 <?php
 
-    // $value = 110; 
-    // $index = ($value - 97 - 1) % 26;
-    // if($index < 0) $deciphered += g.fromCharCode(123 + index);
-    // echo $index ;
+   
     $token_id = '7a3969cbcc527c4d442d86d63af3d60352fd6868';
     $url = "https://api.codenation.dev/v1/challenge/dev-ps/generate-data?token=".$token_id;
     
