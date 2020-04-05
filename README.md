@@ -16,13 +16,13 @@ Escrever programa, em qualquer linguagem de programação, que faça uma requisi
 
 https://api.codenation.dev/v1/challenge/dev-ps/generate-data?token=7a3969cbcc527c4d442d86d63af3d60352fd6868
 <hr>
-**🔧 Tecnologias** <br/>
+🔧 **Tecnologias** <br/>
 - PHP <br/>
 - json 
 <br/>
 
-ℹ️ **Como usar**
-Antes de iniciar :
+ℹ️ **Como usar** <br/>
+Antes de iniciar instale:
 - xammp ou PHP e TOMCAT
 
 **Autor:** <br/>
