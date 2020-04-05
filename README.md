@@ -15,6 +15,7 @@ No nosso caso os números e pontos serão mantidos, ou seja:
 Escrever programa, em qualquer linguagem de programação, que faça uma requisição HTTP para a url abaixo:
 
 https://api.codenation.dev/v1/challenge/dev-ps/generate-data?token=7a3969cbcc527c4d442d86d63af3d60352fd6868
+<hr>
 🔧 Tecnologias
 - PHP
 - json
@@ -24,5 +25,5 @@ Antes de iniciar :
 - xammp ou PHP e TOMCAT
 
 
-Autor
+Autor <br/>
 Leila Ferreira - LeilaFerreira
