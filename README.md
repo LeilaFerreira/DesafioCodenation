@@ -16,8 +16,8 @@ Escrever programa, em qualquer linguagem de programação, que faça uma requisi
 
 https://api.codenation.dev/v1/challenge/dev-ps/generate-data?token=7a3969cbcc527c4d442d86d63af3d60352fd6868
 <hr>
-🔧 Tecnologias
-- PHP
+🔧 Tecnologias <br/>
+- PHP <br/>
 - json
 
 ℹ️ Como usar
