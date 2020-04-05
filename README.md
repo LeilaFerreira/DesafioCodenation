@@ -16,14 +16,14 @@ Escrever programa, em qualquer linguagem de programação, que faça uma requisi
 
 https://api.codenation.dev/v1/challenge/dev-ps/generate-data?token=7a3969cbcc527c4d442d86d63af3d60352fd6868
 <hr>
-🔧 Tecnologias <br/>
+**🔧 Tecnologias** <br/>
 - PHP <br/>
-- json <br/>
+- json 
+<br/>
 
-ℹ️ Como usar
+ℹ️ **Como usar**
 Antes de iniciar :
 - xammp ou PHP e TOMCAT
 
-
-Autor <br/>
+**Autor:** <br/>
 Leila Ferreira - <a href="https://github.com/LeilaFerreira/">LeilaFerreira</a> 
