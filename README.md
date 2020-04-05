@@ -18,7 +18,7 @@ https://api.codenation.dev/v1/challenge/dev-ps/generate-data?token=7a3969cbcc527
 <hr>
 🔧 Tecnologias <br/>
 - PHP <br/>
-- json
+- json <br/>
 
 ℹ️ Como usar
 Antes de iniciar :
@@ -26,4 +26,4 @@ Antes de iniciar :
 
 
 Autor <br/>
-Leila Ferreira - LeilaFerreira
+Leila Ferreira - <a href="https://github.com/LeilaFerreira/">LeilaFerreira</a> 
